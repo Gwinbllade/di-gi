@@ -74,7 +74,7 @@ header .content-container {
 
 /* Intro */
 .intro {
-    background-image: url("/images/news-1.png");
+    background-image: url("/di-gi/images/intro-bg.png");
     background-size: cover;
     height: 668px;
     width: 100%;
